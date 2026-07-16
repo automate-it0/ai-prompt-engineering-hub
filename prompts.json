@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "SQL Query Optimization Expert",
+    "category": "database",
+    "prompt": "You are an expert database administrator. Analyze the following SQL query for performance bottlenecks, suggest index improvements, and rewrite the query for optimal execution speed: [Insert SQL Query]",
+    "likes": 342,
+    "tags": ["sql", "performance", "database"]
+  },
+  {
+    "id": 2,
+    "title": "React Glassmorphism Component Generator",
+    "category": "frontend",
+    "prompt": "Create a modern React component utilizing glassmorphism styling. Use inline Tailwind CSS, include interactive hover effects, smooth transitions, and handle responsive states gracefully.",
+    "likes": 289,
+    "tags": ["react", "tailwind", "ui"]
+  },
+  {
+    "id": 3,
+    "title": "Python Bug Finder & Explainer",
+    "category": "debugging",
+    "prompt": "Review the following Python code snippet. Identify any logical bugs, race conditions, or memory leaks. Explain the root cause of each issue and provide a corrected, production-ready version: [Insert Code]",
+    "likes": 512,
+    "tags": ["python", "debugging", "security"]
+  },
+  {
+    "id": 4,
+    "title": "System Architecture Diagram Helper",
+    "category": "architecture",
+    "prompt": "Translate the following system requirements into a clean Mermaid.js sequence and architecture diagram. Describe the data flow, API endpoints, and database interactions: [Insert Requirements]",
+    "likes": 195,
+    "tags": ["architecture", "mermaid", "design"]
+  },
+  {
+    "id": 5,
+    "title": "Midjourney Cinematic Lighting Formula",
+    "category": "creative",
+    "prompt": "A cinematic shot of [subject], golden hour lighting, volumetric dust particles, shot on 35mm lens, photorealistic, 8k resolution, highly detailed depth of field --ar 16:9 --style raw",
+    "likes": 405,
+    "tags": ["midjourney", "art", "prompt"]
+  }
+]
