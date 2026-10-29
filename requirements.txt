@@ -1,3 +1,1 @@
-requests
-argparse
-logging
+# No third-party dependencies — the CLI uses only the Python standard library.

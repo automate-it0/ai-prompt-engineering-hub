@@ -1,8 +1,32 @@
-*.pyc
-*.log
+# Byte-compiled / cache
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
 venv/
+.venv/
 env/
-*.env
-*.tmp
-*.tmp.*
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
